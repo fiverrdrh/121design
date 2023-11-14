@@ -1,0 +1,8 @@
+django
+djangorestframework
+django-cors-headers
+django-rest-auth==0.9.5
+python-dateutil
+python-dotenv==0.19.0
+psycopg2-binary
+djangorestframework-simplejwt
